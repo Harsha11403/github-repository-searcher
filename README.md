@@ -62,7 +62,6 @@ Ensure the following are installed:
 git clone https://github.com/Harsha11403/github-repository-searcher.git
 cd github-repository-searcher
 ```
-> Replace `YOUR_USERNAME` with your actual GitHub username.
 
 ### Build the Project
 ```bash
