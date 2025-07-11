@@ -59,7 +59,7 @@ Ensure the following are installed:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/github-repository-searcher.git
+git clone https://github.com/Harsha11403/github-repository-searcher.git
 cd github-repository-searcher
 ```
 > Replace `YOUR_USERNAME` with your actual GitHub username.
